@@ -33,33 +33,22 @@ Backend-focused developer building scalable systems, APIs, automation tools, bot
 
 ---
 
-# ⚡ Tech Arsenal
+## 🛠️ Tech Arsenal (Backend-Focused)
 
-## 🧠 Backend & APIs
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb,firebase&theme=dark" />
-</p>
+|                               ⚙️ **Backend & APIs**                              |                      🧠 **Languages**                     |                       🗄️ **Databases**                      |
+| :------------------------------------------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------------: |
+| ![BE](https://skillicons.dev/icons?i=nodejs,express,php,django,firebase,postman) | ![Lang](https://skillicons.dev/icons?i=js,python,cpp,php) | ![DB](https://skillicons.dev/icons?i=mysql,mongodb,firebase) |
 
-## 🌐 Frontend
+|                          🤖 **Automation & Bots**                         |                          🧰 **Dev Tools**                          |                   ☁️ **System & Deployment**                  |
+| :-----------------------------------------------------------------------: | :----------------------------------------------------------------: | :-----------------------------------------------------------: |
+| ![Auto](https://skillicons.dev/icons?i=linux,bash,githubactions,selenium) | ![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman) | ![Cloud](https://skillicons.dev/icons?i=vercel,render,docker) |
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" />
-</p>
-
-## ⚙️ Automation & Dev Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,bash,docker&theme=dark" />
-</p>
-
-## 💻 Other Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python&theme=dark" />
-</p>
+</div>
 
 ---
+
 
 # 🚀 What I Build
 
@@ -75,65 +64,6 @@ Backend-focused developer building scalable systems, APIs, automation tools, bot
 ✓ Admin Dashboards
 ✓ OpenGL C++ Games
 ````
-
----
-
-# 🏗️ Featured Projects
-
-## 🎵 Wogagoda Gospel Music Platform
-
-Full-stack music & lyrics platform designed for local communities.
-
-### Features
-
-* Authentication System
-* Music & Lyrics Management
-* Singer & Album Modules
-* Admin Dashboard
-* Responsive UI
-* Database Integration
-
----
-
-## 🤖 Telegram Automation Bots
-
-Custom Telegram bots for:
-
-* Automation workflows
-* Messaging systems
-* Utility tools
-* Notifications
-* API integrations
-
----
-
-## 🎮 C++ OpenGL Games
-
-Projects:
-
-* Snake Game
-* Rolling Ball Arcade Game
-
-### Concepts Used
-
-* Game loops
-* Collision detection
-* Physics simulation
-* Graphics rendering
-* Real-time interactions
-
----
-
-## 🏦 Bank Account Management System
-
-Backend-focused PHP & MySQL system featuring:
-
-* Secure authentication
-* CRUD operations
-* Database management
-* User handling
-* Session management
-
 ---
 
 # 📊 GitHub Analytics
