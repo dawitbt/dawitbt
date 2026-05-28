@@ -53,17 +53,16 @@ Backend-focused developer building scalable systems, APIs, automation tools, bot
 # 🚀 What I Build
 
 ```txt
-✓ REST APIs
-✓ Backend Systems
-✓ Telegram Bots
-✓ Automation Tools
-✓ Full Stack Applications
+✓ REST APIs & Backend Systems
+✓ Telegram Bots & Automation Tools
+✓ Database-driven Applications
+✓ Scalable Web Applications
 ✓ Android Applications
-✓ Database Systems
-✓ Authentication Systems
-✓ Admin Dashboards
+✓ Authentication & Authorization Systems
+✓ Admin Dashboards & Control Panels
 ✓ OpenGL C++ Games
 ````
+
 ---
 
 # 📊 GitHub Analytics
