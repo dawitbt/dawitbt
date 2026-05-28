@@ -124,9 +124,19 @@ while(alive) {
 # 🌍 Connect
 
 <p align="center">
+
   <a href="https://github.com/dawitbt">
-    <img src="https://img.shields.io/badge/GitHub-dawitbt-0F172A?style=for-the-badge&logo=github&logoColor=00F5FF"/>
+    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=00F5FF"/>
   </a>
+
+  <a href="https://t.me/dawitbt">
+    <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+
+</p>
+
+<p align="center">
+📬 Open for internships, backend roles, and collaboration opportunities
 </p>
 
 ---
